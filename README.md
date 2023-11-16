@@ -42,6 +42,8 @@ O arquivo JavaScript adiciona interatividade alternando a classe dark-mode no co
 Personalização
 Sinta-se à vontade para substituir as imagens de espaço reservado na pasta assets por seus ícones ou imagens preferidos.
 Modifique a propriedade font-family no arquivo CSS para usar uma fonte diferente.
+## Autor
+Agata Domingues Farias
 
 #### Créditos
 Tutorial por Luan Alves na Alura+
