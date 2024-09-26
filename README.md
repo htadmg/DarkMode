@@ -3,50 +3,31 @@
 ![image](https://github.com/htadmg/DarkMode/assets/124289385/807a2ab0-d94e-4877-806a-b0a64a9b2cd1)
 ![image](https://github.com/htadmg/DarkMode/assets/124289385/e7e5e27b-a871-4c55-b106-877feadc3fc2)
 
+## Descrição do Projeto
 Um projeto web simples que demonstra a implementação do Modo Noturno usando HTML, CSS e JavaScript, inspirado na popular série de TV "Game of Thrones".
+A funcionalidade de Modo Noturno, também conhecida como Modo Escuro, tornou-se cada vez mais popular em várias aplicações, incluindo redes sociais, plataformas educacionais e serviços de entretenimento.
 
-## Visão Geral
+## Tecnologias Utilizadas
 
-A funcionalidade de Modo Noturno, também conhecida como Modo Escuro, tornou-se cada vez mais popular em várias aplicações, incluindo redes sociais, plataformas educacionais e serviços de entretenimento. Neste tutorial da Alura+, o instrutor Luan Alves guia você pelo processo de implementação do Modo Noturno em um layout web. Este tutorial faz parte de uma série de 5 vídeos explicando HTML e CSS, e também incorpora um pouco de JavaScript.
+- **HTML**: Estrutura do conteúdo da página.
+- **CSS**: Estilização e layout da interface.
+- **JavaScript**: Lógica de cálculo e manipulação de DOM.
 
-## Estrutura do Projeto
+  ## Como Configurar o Projeto
 
-```plaintext
-|-- index.html
-|-- style.css
-|-- script.js
-|-- assets
-    |-- lua.png
-    |-- sol.png
-    |-- trono-preto.png
-    |-- trono-branco.png
+Para executar este projeto localmente, siga os passos abaixo:
+
+1. **Clone o Repositório**
+- Usando HTTPS:
+```bash
+git clone https://github.com/htadmg/DarkMode.git
 ```
-
-## Primeiros Passos
-
-1- Clone o repositório:
-2- Abra o arquivo index.html no seu navegador da web preferido.
-3- Clique no botão para alternar entre o Modo Noturno e o Modo Claro.
-
-## Visão Geral do Código
-### HTML (index.html)
-
-O arquivo HTML define a estrutura da página da web, incluindo o botão para alternar entre o Modo Noturno e um contêiner com um design inspirado em Game of Thrones.
-
-### CSS (style.css)
-
-O arquivo CSS contém a estilização para os modos claro e escuro, utilizando propriedades personalizadas para a cor de fundo, cor da fonte e imagens de fundo.
-O seletor :root define valores iniciais, enquanto a classe .dark-mode altera esses valores para o modo escuro.
-### JavaScript (script.js)
-O arquivo JavaScript adiciona interatividade alternando a classe dark-mode no corpo quando o botão é clicado.
-Personalização
-Sinta-se à vontade para substituir as imagens de espaço reservado na pasta assets por seus ícones ou imagens preferidos.
-Modifique a propriedade font-family no arquivo CSS para usar uma fonte diferente.
-## Autor
-Agata Domingues Farias
-
-#### Créditos
-Tutorial por Luan Alves na Alura+
-Ícones e imagens de Alura+
-Curta explorar o mundo do Modo Noturno no estilo de Game of Thrones! O inverno está chegando!
-
+- Usando SSH:
+```bash
+git clone git@github.com:htadmg/DarkMode.git
+```
+- Navegue até o diretório do projeto:
+```bash
+cd .\DarkMode
+```
+2. **Abra o arquivo index.html no seu navegador**
