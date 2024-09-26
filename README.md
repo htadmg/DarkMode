@@ -13,7 +13,7 @@ A funcionalidade de Modo Noturno, também conhecida como Modo Escuro, tornou-se 
 - **CSS**: Estilização e layout da interface.
 - **JavaScript**: Lógica de cálculo e manipulação de DOM.
 
-  ## Como Configurar o Projeto
+## Como Configurar o Projeto
 
 Para executar este projeto localmente, siga os passos abaixo:
 
